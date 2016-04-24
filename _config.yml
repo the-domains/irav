@@ -1,7 +1,7 @@
 name: irav
 favicon: null
-layout_spectrum: 0.5838239151053131
-typography_spectrum: 0.413638319587335
+layout_spectrum: 0.92571
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.00425424799323082
-  lightness: 0.5960507958661765
-  saturation: 0.581063277553767
-  rhythmicContrast: 0.5799931085202843
+    - '#3c3d3f'
+    - '#060606'
+    - '#6e6f73'
+    - '#f0ded3'
+    - '#a38778'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
